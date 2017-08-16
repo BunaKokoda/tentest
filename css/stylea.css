@@ -1,1 +1,18 @@
-
+body {
+       background-color: powder blue;
+       color: blue;
+       font-family: calibri;
+       font-size: 12px;
+       text-align: center;
+       border-style: solid;
+       border-style: dotted;
+       border-width: 5px
+       border-top-style: dashed;
+       border-right-style: solid;
+       border-bottom-style: dotted;
+       margin-top: 100px;
+       margin-left: 80px
+       padding-top: 50px;
+       padding-right: 30px;  
+       padding: 50px 30px 50px 80px;        
+}    
