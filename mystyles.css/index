@@ -25,5 +25,8 @@ body {
 <p>This is the Home Page</p>
 <p>External References</p>
 <a href="https://www.w3schools.com/html/html_css.asp">External References</a>
+<p>Image:<br/>
+<img src="images/vegetables.png" title="Garden Produce">
+</p>
 </body>
 </html>
