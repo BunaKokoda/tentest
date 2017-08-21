@@ -1,12 +1,10 @@
 body {
        background-color: powder blue;
        color: blue;
-       font-family: calibri;
+       font-family: aerial;
        font-size: 12px;
        text-align: center;
        border-style: solid;
        border-width: 5px
-       margin-top: 100px;
-       margin-left: 80px
        padding: 50px;        
 }    
