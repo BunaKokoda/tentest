@@ -1,4 +1,4 @@
-body {
+body, h1, h2, p {
        background-color: powder blue;
        color: blue;
        font-family: aerial;
