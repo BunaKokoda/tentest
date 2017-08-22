@@ -1,5 +1,3 @@
-body, h3, p  {background-color: powderblue;
-       color: blue;
-       font-family: aerial;
-       font-size: 30pt;
-}    
+body  {background-color: powderblue;}
+h1    {color: blue;}
+p     {color: red}  
