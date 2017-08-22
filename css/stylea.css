@@ -1,6 +1,5 @@
-body, h1, h2, p 
-{
-       background-color: powder blue;
+body
+{      background-color: powderblue;
        color: blue;
        font-family: aerial;
        font-size: 30pt;
