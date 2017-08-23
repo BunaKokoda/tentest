@@ -1,8 +1,9 @@
-body  {background-color: light grey;}
-p {color: red}  
-h1, h2, h3 
-{
-     font-family: aerial;
-     font-size: 30px;
-     color: red;
-{
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: green;
+}
+p {
+    color: red;
+}
