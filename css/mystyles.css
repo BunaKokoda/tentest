@@ -1,5 +1,14 @@
-h1, h2, h3 {
-     font-family: aerial;
-     font-size: 30pt;
-     color: red;
-{
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
